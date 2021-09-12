@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+/*header*/
+
+.navbar-nav li a {
+    float: right !important;
+    color: #fff !important;
+    margin-right: 20px;
+    text-shadow: 1px 1px 5px #000000;
+}
+
+.navbar-brand img {
+    width: 120px;
+    margin-top: 30px;
+    margin-top: 10px;
+}
+
+.navbar-toggler {
+    margin-right: 20px;
+    color: #fff;
+    border: none!important;
+    outline: none!important;
+}
+
+.navbar-toggler-icon {
+    color: #fff;
+    font-size: 26px;
+}
+
+/*Information part*/
+
+#information {
+    background-image: url('/img/pexels-sinitta-leunen-3791003.jpg');
+    height: 70vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.welcome {
+    padding-top: 10%;
+}
+
+#button {
+    padding-top: 5%;
+}
+
+/*places to visit part*/
+
+#places {
+    background-image: url('/img/pexels-luis-quero-3596731.jpg');
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-shadow: 1px #000000;
+}
+
+
+.places {
+    padding-top: 10%;
+}
+
+/*preparation*/
+
+#preparation {
+    background-image: url('/img/pexels-pixabay-417344.jpg');
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-shadow: 1px #000000;
+}
+
+
+.preparation {
+    padding-top: 10%;
+}
+
+/*contact form*/
