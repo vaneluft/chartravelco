@@ -38,7 +38,7 @@ p {
 /*Information part*/
 
 #information {
-    background-image: url('/img/pexels-sinitta-leunen-3791003.jpg');
+    background-image: url('/chartravelco/img/pexels-sinitta-leunen-3791003.jpg');
     height: 70vh;
     width: 100%;
     background-size: cover;
@@ -57,7 +57,7 @@ p {
 /*places to visit part*/
 
 #places {
-    background-image: url('/img/pexels-luis-quero-3596731.jpg');
+    background-image: url('/chartravelco/img/pexels-luis-quero-3596731.jpg');
     height: 70vh;
     background-size: cover;
     background-position: center;
@@ -73,7 +73,7 @@ p {
 /*preparation*/
 
 #preparation {
-    background-image: url('/img/pexels-pixabay-417344.jpg');
+    background-image: url('/chartravelco/img/pexels-pixabay-417344.jpg');
     height: 70vh;
     background-size: cover;
     background-position: center;
