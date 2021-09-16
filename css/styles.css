@@ -1,20 +1,18 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-p {
-    font-family: 'Raleway', sans-serif;
-}
 
 /*header*/
 
 .navbar-nav li a {
     float: right !important;
-    /*color: #fff !important;*/
+    color: #fff !important;
     margin-right: 20px;
     text-shadow: 1px 1px 5px #000000;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .navbar-brand img {
@@ -37,9 +35,6 @@ p {
 
 /*Information part*/
 
-p {
-    font-size: 18px;
-}
 
 #information {
     background-image: url('/chartravelco/img/pexels-sinitta-leunen-3791003.jpg');
@@ -66,7 +61,7 @@ button {
     background-size: cover;
     background-position: center;
     color: white;
-    padding-top: 10rem;
+    padding-top: 5%;
 }
 
 
